@@ -2888,5 +2888,10 @@
     "peopleIds": [
       "person-4d28f02d"
     ]
+  },
+  "2025-11-27-135126-bobina--collage": {
+    "facesDetected": false,
+    "faces": [],
+    "peopleIds": []
   }
 }

@@ -1426,10 +1426,8 @@
     "qualityBucket": "good"
   },
   "2025-11-27-170359-cebreus": {
-    "sharpness": 100,
-    "phash": "e0c0f0d036362600",
-    "aestheticScore": 44.00510300843609,
-    "qualityBucket": "poor"
+    "sharpness": 3729.4420078513504,
+    "phash": "c0f0f00833330400"
   },
   "2025-11-26-095210-cebreus": {
     "sharpness": 98,
@@ -1615,6 +1613,12 @@
     "sharpness": 95,
     "phash": "c363b239b1313007",
     "aestheticScore": 59.320758038581005,
+    "qualityBucket": "good"
+  },
+  "2025-11-27-135126-bobina--collage": {
+    "sharpness": 5899.1346377917425,
+    "phash": "989ad8cccce4c4cc",
+    "aestheticScore": 58.38374586987784,
     "qualityBucket": "good"
   }
 }
